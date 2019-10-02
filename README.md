@@ -16,7 +16,7 @@ File [awesome.go](./awesome.go)
 ```go
 package main
 
-import "C"
+import "Z"
 
 import (
 	"fmt"
